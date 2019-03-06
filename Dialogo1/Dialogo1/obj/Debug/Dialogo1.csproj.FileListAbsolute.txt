@@ -1,0 +1,7 @@
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\bin\Debug\Dialogo1.exe.config
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\bin\Debug\Dialogo1.exe
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\bin\Debug\Dialogo1.pdb
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\obj\Debug\Dialogo1.csprojAssemblyReference.cache
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\obj\Debug\Dialogo1.csproj.CoreCompileInputs.cache
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\obj\Debug\Dialogo1.exe
+C:\Users\Josefa1\source\repos\Dialogo1\Dialogo1\obj\Debug\Dialogo1.pdb
