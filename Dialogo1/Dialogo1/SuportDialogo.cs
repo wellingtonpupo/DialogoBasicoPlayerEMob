@@ -38,7 +38,7 @@ namespace Dialogo1
                 {
                     StringBuilder sb = new StringBuilder(@"D1Seu sofrimento e minha diversao;
                                                            D2A escuridao acalma tudo;
-                                                           D3Zero divido por um numero qualquer e sua chance de sobreviver;");
+                                                           D3Um numero qualquer divido por zero e sua chance de sobreviver;");
                     int i = 0;
                     foreach (var item in sb.ToString())
                     {
